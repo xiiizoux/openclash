@@ -1,0 +1,11 @@
+# America
+# 一般国内Apple肯定正常,不需要开代理
+# DOMAIN,apple.comscoreresearch.com
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
+
+# IP-CIDR,17.0.0.0/8,no-resolve
+# IP-CIDR,63.92.224.0/24,no-resolve
