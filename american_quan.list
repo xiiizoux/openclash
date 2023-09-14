@@ -1,0 +1,25 @@
+# America
+DOMAIN-KEYWORD,openai,美国节点
+DOMAIN-SUFFIX,auth0.com,美国节点
+DOMAIN-SUFFIX,challenges.cloudflare.com,美国节点
+DOMAIN-SUFFIX,client-api.arkoselabs.com,美国节点
+DOMAIN-SUFFIX,events.statsigapi.net,美国节点
+DOMAIN-SUFFIX,featuregates.org,美国节点
+DOMAIN-SUFFIX,identrust.com,美国节点
+DOMAIN-SUFFIX,intercom.io,美国节点
+DOMAIN-SUFFIX,intercomcdn.com,美国节点
+DOMAIN-SUFFIX,openai.com,美国节点
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net,美国节点
+DOMAIN-SUFFIX,sentry.io,美国节点
+DOMAIN-SUFFIX,stripe.com,美国节点
+
+DOMAIN-SUFFIX,bing.com,美国节点
+DOMAIN-SUFFIX,bing.net,美国节点
+DOMAIN-SUFFIX,bingapis.com,美国节点
+
+DOMAIN-SUFFIX,bard.google.com,美国节点
+DOMAIN-SUFFIX,claude.ai,美国节点
+DOMAIN-SUFFIX,anthropic.com,美国节点
+DOMAIN-SUFFIX,worldcoin.com,美国节点
+DOMAIN-SUFFIX,synology.com,美国节点
+DOMAIN-SUFFIX,synology.cn,美国节点
