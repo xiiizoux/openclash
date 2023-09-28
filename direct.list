@@ -1,8 +1,6 @@
 DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,zouguojun.com
-DOMAIN-SUFFIX,com.cn
-DOMAIN-SUFFIX,gov.cn
 
 # NAME: GovCN
 DOMAIN-SUFFIX,gov.cn
