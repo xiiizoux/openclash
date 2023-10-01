@@ -1,6 +1,14 @@
 DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,zouguojun.com
 DOMAIN-SUFFIX,gov.cn
+DOMAIN-SUFFIX,gov.cn
+
+DOMAIN-SUFFIX,wechat.com
+DOMAIN-SUFFIX,wechatlegal.net
+DOMAIN-SUFFIX,wechatpay.com
+DOMAIN-SUFFIX,wechatpay.com.hk
+DOMAIN-SUFFIX,tenpay.com
+DOMAIN-SUFFIX,pay.qq.com
 
 HOST-SUFFIX,mypikpak.com
 HOST-KEYWORD,mypikpak
