@@ -154,6 +154,8 @@ DOMAIN-SUFFIX,luohanacademy.com,DIRECT
 DOMAIN-SUFFIX,sinopayment.com.cn,DIRECT
 
 # NAME: Tencent Pay
+DOMAIN-SUFFIX,wechat.com,DIRECT
+DOMAIN-SUFFIX,wechatlegal.net,DIRECT
 DOMAIN-SUFFIX,wechatpay.com,DIRECT
 DOMAIN-SUFFIX,wechatpay.com.hk,DIRECT
 DOMAIN-SUFFIX,tenpay.com,DIRECT
