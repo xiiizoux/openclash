@@ -2,6 +2,30 @@ DOMAIN-SUFFIX,tls.wiki
 DOMAIN-SUFFIX,tls.ink
 DOMAIN-SUFFIX,mypikpak.com/drive
 
-IP-CIDR,8.8.8.8/24,no-resolve
-IP-CIDR,1.1.1.8/24,no-resolve
-IP-CIDR,9.9.9.8/24,no-resolve
+# NAME: DNS
+DOMAIN,1dot1dot1dot1.cloudflare-dns.com
+DOMAIN,8888.google
+DOMAIN,chrome.cloudflare-dns.com
+DOMAIN,cloudflare-dns.com
+DOMAIN,dns-family.adguard.com
+DOMAIN,dns-unfiltered.adguard.com
+DOMAIN,dns.adguard.com
+DOMAIN,dns.cloudflare.com
+DOMAIN,dns.dns-over-https.com
+DOMAIN,dns.google
+DOMAIN,dns.google.com
+DOMAIN,dns.ipv6dns.com
+DOMAIN,dns.surfshark.com
+DOMAIN,doh.familyshield.opendns.com
+DOMAIN,doh.opendns.com
+DOMAIN,family.cloudflare-dns.com
+DOMAIN,ibksturm.synology.me
+DOMAIN,one.one.one.one
+DOMAIN,security.cloudflare-dns.com
+DOMAIN,unfiltered.adguard-dns.com
+IP-CIDR,1.1.1.1/32,no-resolve
+IP-CIDR,1.0.0.1/32,no-resolve
+IP-CIDR,101.101.101.101/32,no-resolve
+IP-CIDR,8.8.4.4/32,no-resolve
+IP-CIDR,8.8.8.8/32,no-resolve
+IP-CIDR,9.9.9.9/32,no-resolve
