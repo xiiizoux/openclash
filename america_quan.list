@@ -20,7 +20,7 @@ DOMAIN-SUFFIX,worldcoin.com,美国节点
 DOMAIN-SUFFIX,synology.com,美国节点
 DOMAIN-SUFFIX,synology.cn,美国节点
 
-# NAME: Azure
+# NAME: Bing
 HOST-SUFFIX,azure,美国节点
 HOST-SUFFIX,azure-api.cn,美国节点
 HOST-SUFFIX,azure-apihub.cn,美国节点
