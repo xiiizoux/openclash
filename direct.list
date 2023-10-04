@@ -10,5 +10,4 @@ DOMAIN-SUFFIX,wechatpay.com.hk
 DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,pay.qq.com
 
-HOST-SUFFIX,mypikpak.com
-HOST-KEYWORD,mypikpak
+DOMAIN-SUFFIX,mypikpak.com
