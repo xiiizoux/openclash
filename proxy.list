@@ -31,3 +31,11 @@ IP-CIDR,101.101.101.101/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,9.9.9.9/32,no-resolve
+IP-CIDR,199.85.126.10/32,no-resolve
+IP-CIDR,199.85.127.10/32,no-resolve
+IP-CIDR,208.67.222.222/32,no-resolve
+IP-CIDR,208.67.220.220/32,no-resolve
+IP-CIDR,84.200.69.80/32,no-resolve
+IP-CIDR,84.200.70.40/32,no-resolve
+IP-CIDR,8.26.56.26/32,no-resolve
+IP-CIDR,8.20.247.20/32,no-resolve
