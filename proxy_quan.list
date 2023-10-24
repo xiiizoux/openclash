@@ -7,6 +7,8 @@ DOMAIN-SUFFIX,creamdata.net
 DOMAIN-SUFFIX,okaypay.online
 DOMAIN-SUFFIX,zlibrary-global.se,Proxy
 HOST-KEYWORD,zlibrary,Proxy
+DOMAIN-SUFFIX,singlelogin.site,Proxy
+DOMAIN-SUFFIX,singlelogin.re,Proxy
 
 # NAME: Apple
 DOMAIN,appldnld.apple.com.edgesuite.net,Proxy
