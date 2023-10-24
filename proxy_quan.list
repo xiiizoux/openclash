@@ -11,6 +11,8 @@ DOMAIN-SUFFIX,zlibrary-global.se,Proxy
 HOST-KEYWORD,zlibrary,Proxy
 DOMAIN-SUFFIX,singlelogin.site,Proxy
 DOMAIN-SUFFIX,singlelogin.re,Proxy
+DOMAIN-SUFFIX,1lib.sk,Proxy
+DOMAIN-SUFFIX,libsolutions.app,Proxy
 
 # NAME: DNS
 DOMAIN,1dot1dot1dot1.cloudflare-dns.com,Proxy
