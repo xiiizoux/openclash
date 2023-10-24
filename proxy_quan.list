@@ -10,6 +10,42 @@ HOST-KEYWORD,zlibrary,Proxy
 DOMAIN-SUFFIX,singlelogin.site,Proxy
 DOMAIN-SUFFIX,singlelogin.re,Proxy
 
+# NAME: DNS
+DOMAIN,1dot1dot1dot1.cloudflare-dns.com,Proxy
+DOMAIN,8888.google,Proxy
+DOMAIN,chrome.cloudflare-dns.com,Proxy
+DOMAIN,cloudflare-dns.com,Proxy
+DOMAIN,dns-family.adguard.com,Proxy
+DOMAIN,dns-unfiltered.adguard.com,Proxy
+DOMAIN,dns.adguard.com,Proxy
+DOMAIN,dns.cloudflare.com,Proxy
+DOMAIN,dns.dns-over-https.com,Proxy
+DOMAIN,dns.google,Proxy
+DOMAIN,dns.google.com,Proxy
+DOMAIN,dns.ipv6dns.com,Proxy
+DOMAIN,dns.surfshark.com,Proxy
+DOMAIN,doh.familyshield.opendns.com,Proxy
+DOMAIN,doh.opendns.com,Proxy
+DOMAIN,family.cloudflare-dns.com,Proxy
+DOMAIN,ibksturm.synology.me,Proxy
+DOMAIN,one.one.one.one,Proxy
+DOMAIN,security.cloudflare-dns.com,Proxy
+DOMAIN,unfiltered.adguard-dns.com,Proxy
+IP-CIDR,1.1.1.1/32,Proxy,no-resolve
+IP-CIDR,1.0.0.1/32,Proxy,no-resolve
+IP-CIDR,101.101.101.101/32,Proxy,no-resolve
+IP-CIDR,8.8.4.4/32,Proxy,no-resolve
+IP-CIDR,8.8.8.8/32,Proxy,no-resolve
+IP-CIDR,9.9.9.9/32,Proxy,no-resolve
+IP-CIDR,199.85.126.10/32,Proxy,no-resolve
+IP-CIDR,199.85.127.10/32,Proxy,no-resolve
+IP-CIDR,208.67.222.222/32,Proxy,no-resolve
+IP-CIDR,208.67.220.220/32,Proxy,no-resolve
+IP-CIDR,84.200.69.80/32,Proxy,no-resolve
+IP-CIDR,84.200.70.40/32,Proxy,no-resolve
+IP-CIDR,8.26.56.26/32,Proxy,no-resolve
+IP-CIDR,8.20.247.20/32,Proxy,no-resolve
+
 # NAME: Apple
 DOMAIN,appldnld.apple.com.edgesuite.net,Proxy
 DOMAIN,apple-events.akamaized.net,Proxy
