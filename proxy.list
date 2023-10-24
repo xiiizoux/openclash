@@ -7,6 +7,8 @@ DOMAIN-SUFFIX,creamdata.net
 DOMAIN-SUFFIX,okaypay.online
 DOMAIN-KEYWORD,zlibrary
 DOMAIN-SUFFIX,zlibrary-global.se
+DOMAIN-SUFFIX,singlelogin.site
+DOMAIN-SUFFIX,singlelogin.re
 
 # NAME: DNS
 DOMAIN,1dot1dot1dot1.cloudflare-dns.com
