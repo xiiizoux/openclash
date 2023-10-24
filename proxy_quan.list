@@ -31,20 +31,20 @@ DOMAIN,ibksturm.synology.me,Proxy
 DOMAIN,one.one.one.one,Proxy
 DOMAIN,security.cloudflare-dns.com,Proxy
 DOMAIN,unfiltered.adguard-dns.com,Proxy
-IP-CIDR,1.1.1.1/32,Proxy,no-resolve
-IP-CIDR,1.0.0.1/32,Proxy,no-resolve
-IP-CIDR,101.101.101.101/32,Proxy,no-resolve
-IP-CIDR,8.8.4.4/32,Proxy,no-resolve
-IP-CIDR,8.8.8.8/32,Proxy,no-resolve
-IP-CIDR,9.9.9.9/32,Proxy,no-resolve
-IP-CIDR,199.85.126.10/32,Proxy,no-resolve
-IP-CIDR,199.85.127.10/32,Proxy,no-resolve
-IP-CIDR,208.67.222.222/32,Proxy,no-resolve
-IP-CIDR,208.67.220.220/32,Proxy,no-resolve
-IP-CIDR,84.200.69.80/32,Proxy,no-resolve
-IP-CIDR,84.200.70.40/32,Proxy,no-resolve
-IP-CIDR,8.26.56.26/32,Proxy,no-resolve
-IP-CIDR,8.20.247.20/32,Proxy,no-resolve
+IP-CIDR,1.1.1.1/32,Proxy
+IP-CIDR,1.0.0.1/32,Proxy
+IP-CIDR,101.101.101.101/32,Proxy
+IP-CIDR,8.8.4.4/32,Proxy
+IP-CIDR,8.8.8.8/32,Proxy
+IP-CIDR,9.9.9.9/32,Proxy
+IP-CIDR,199.85.126.10/32,Proxy
+IP-CIDR,199.85.127.10/32,Proxy
+IP-CIDR,208.67.222.222/32,Proxy
+IP-CIDR,208.67.220.220/32,Proxy
+IP-CIDR,84.200.69.80/32,Proxy
+IP-CIDR,84.200.70.40/32,Proxy
+IP-CIDR,8.26.56.26/32,Proxy
+IP-CIDR,8.20.247.20/32,Proxy
 
 # NAME: Apple
 DOMAIN,appldnld.apple.com.edgesuite.net,Proxy
@@ -1610,27 +1610,18 @@ USER-AGENT,com.apple.news*,Proxy
 USER-AGENT,com.apple.trustd*,Proxy
 USER-AGENT,AppleTV*,Proxy
 USER-AGENT,com.apple.tv*,Proxy
-IP-CIDR,139.178.128.0/18,Proxy,no-resolve
-IP-CIDR,144.178.0.0/19,Proxy,no-resolve
-IP-CIDR,144.178.36.0/22,Proxy,no-resolve
-IP-CIDR,144.178.48.0/20,Proxy,no-resolve
-IP-CIDR,17.0.0.0/8,Proxy,no-resolve
-IP-CIDR,192.35.50.0/24,Proxy,no-resolve
-IP-CIDR,198.183.17.0/24,Proxy,no-resolve
-IP-CIDR,205.180.175.0/24,Proxy,no-resolve
-IP-CIDR,63.92.224.0/19,Proxy,no-resolve
-IP-CIDR,65.199.22.0/23,Proxy,no-resolve
+IP-CIDR,139.178.128.0/18,Proxy
+IP-CIDR,144.178.0.0/19,Proxy
+IP-CIDR,144.178.36.0/22,Proxy
+IP-CIDR,144.178.48.0/20,Proxy
+IP-CIDR,17.0.0.0/8,Proxy
+IP-CIDR,192.35.50.0/24,Proxy
+IP-CIDR,198.183.17.0/24,Proxy
+IP-CIDR,205.180.175.0/24,Proxy
+IP-CIDR,63.92.224.0/19,Proxy
+IP-CIDR,65.199.22.0/23,Proxy
 
 # NAME: Microsoft
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-07-20 23:20:05
-# HOST: 41
-# HOST-KEYWORD: 4
-# HOST-SUFFIX: 660
-# HOST-WILDCARD: 1
-# USER-AGENT: 3
-# TOTAL: 709
 HOST,bg.v4.a.dl.ws.microsoft.com,Proxy
 HOST,bg4.v4.a.dl.ws.microsoft.com,Proxy
 HOST,bj1.api.bing.com,Proxy
