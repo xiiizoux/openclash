@@ -1,3 +1,6 @@
+DOMAIN-SUFFIX,bard.google.com,美国节点
+DOMAIN-SUFFIX,worldcoin.com,美国节点
+
 # NAME: OpenAI
 DOMAIN-KEYWORD,openai,美国节点
 DOMAIN-SUFFIX,auth0.com,美国节点
@@ -13,10 +16,10 @@ DOMAIN-SUFFIX,openaiapi-site.azureedge.net,美国节点
 DOMAIN-SUFFIX,sentry.io,美国节点
 DOMAIN-SUFFIX,stripe.com,美国节点
 
-DOMAIN-SUFFIX,bard.google.com,美国节点
-DOMAIN-SUFFIX,claude.ai,美国节点
+# NAME: Claude
+DOMAIN,cdn.usefathom.com,美国节点
 DOMAIN-SUFFIX,anthropic.com,美国节点
-DOMAIN-SUFFIX,worldcoin.com,美国节点
+DOMAIN-SUFFIX,claude.ai,美国节点
 
 # NAME: Bing
 HOST-SUFFIX,azure,美国节点
