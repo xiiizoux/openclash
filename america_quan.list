@@ -17,8 +17,6 @@ DOMAIN-SUFFIX,bard.google.com,美国节点
 DOMAIN-SUFFIX,claude.ai,美国节点
 DOMAIN-SUFFIX,anthropic.com,美国节点
 DOMAIN-SUFFIX,worldcoin.com,美国节点
-DOMAIN-SUFFIX,synology.com,美国节点
-DOMAIN-SUFFIX,synology.cn,美国节点
 
 # NAME: Bing
 HOST-SUFFIX,azure,美国节点
