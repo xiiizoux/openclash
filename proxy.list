@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,singlelogin.site
 DOMAIN-SUFFIX,singlelogin.re
 DOMAIN-SUFFIX,1lib.sk
 DOMAIN-SUFFIX,libsolutions.app
+DOMAIN-SUFFIX,pincong.rocks
 
 # NAME: DNS
 DOMAIN,1dot1dot1dot1.cloudflare-dns.com
