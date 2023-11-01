@@ -14,7 +14,6 @@ DOMAIN-SUFFIX,singlelogin.re,自动选择
 DOMAIN-SUFFIX,1lib.sk,自动选择
 DOMAIN-SUFFIX,libsolutions.app,自动选择
 DOMAIN-SUFFIX,pincong.rocks,自动选择
-DOMAIN-SUFFIX,cloudflare.com,自动选择
 
 # NAME: DNS
 DOMAIN,1dot1dot1dot1.cloudflare-dns.com,自动选择
