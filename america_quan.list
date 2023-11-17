@@ -15,6 +15,8 @@ DOMAIN-SUFFIX,openai.com,美国节点
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net,美国节点
 DOMAIN-SUFFIX,sentry.io,美国节点
 DOMAIN-SUFFIX,stripe.com,美国节点
+DOMAIN-SUFFIX,oaistatic.com,美国节点
+DOMAIN-SUFFIX,oaiusercontent.com,美国节点
 
 # NAME: Claude
 DOMAIN,cdn.usefathom.com,美国节点
