@@ -1966,6 +1966,7 @@ HOST-SUFFIX,自动选择silverlight.net,自动选择
 HOST-SUFFIX,自动选择silverlight.org,自动选择
 HOST-SUFFIX,自动选择siteselection.com,自动选择
 HOST-SUFFIX,自动选择sqlserver.com,自动选择
+HOST-SUFFIX,自动选择start.com,自动选择
 HOST-SUFFIX,自动选择store.com,自动选择
 HOST-SUFFIX,自动选择store.com.cn,自动选择
 HOST-SUFFIX,自动选择store.com.hk,自动选择
@@ -2138,6 +2139,7 @@ HOST-SUFFIX,skypeforbusiness.com,自动选择
 HOST-SUFFIX,sprinklesapp.com,自动选择
 HOST-SUFFIX,sqlserveronlinux.com,自动选择
 HOST-SUFFIX,staffhub.ms,自动选择
+HOST-SUFFIX,start.com,自动选择
 HOST-SUFFIX,statics-marketingsites-eas-ms-com.akamaized.net,自动选择
 HOST-SUFFIX,statics-marketingsites-eus-ms-com.akamaized.net,自动选择
 HOST-SUFFIX,statics-marketingsites-neu-ms-com.akamaized.net,自动选择
