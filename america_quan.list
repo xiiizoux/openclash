@@ -23,7 +23,7 @@ DOMAIN,cdn.usefathom.com,美国节点
 DOMAIN-SUFFIX,anthropic.com,美国节点
 DOMAIN-SUFFIX,claude.ai,美国节点
 
-# NAME: Bing
+# NAME: Azure
 HOST-SUFFIX,azure,美国节点
 HOST-SUFFIX,azure-api.cn,美国节点
 HOST-SUFFIX,azure-apihub.cn,美国节点
@@ -83,7 +83,7 @@ HOST-SUFFIX,azuresmartspaces.net,美国节点
 HOST-SUFFIX,azurestackvalidation.com,美国节点
 HOST-SUFFIX,azurewebsites.net,美国节点
 
-# NAME: Azure
+# NAME: Bing
 HOST-SUFFIX,bing,美国节点
 HOST-SUFFIX,bing.com,美国节点
 HOST-SUFFIX,bing.com.cn,美国节点
