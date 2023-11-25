@@ -15,42 +15,6 @@ DOMAIN-SUFFIX,1lib.sk,自动选择
 DOMAIN-SUFFIX,libsolutions.app,自动选择
 DOMAIN-SUFFIX,pincong.rocks,自动选择
 
-# NAME: DNS
-# DOMAIN,1dot1dot1dot1.cloudflare-dns.com,自动选择
-# DOMAIN,8888.google,自动选择
-# DOMAIN,chrome.cloudflare-dns.com,自动选择
-# DOMAIN,cloudflare-dns.com,自动选择
-# DOMAIN,dns-family.adguard.com,自动选择
-# DOMAIN,dns-unfiltered.adguard.com,自动选择
-# DOMAIN,dns.adguard.com,自动选择
-# DOMAIN,dns.cloudflare.com,自动选择
-# DOMAIN,dns.dns-over-https.com,自动选择
-# DOMAIN,dns.google,自动选择
-# DOMAIN,dns.google.com,自动选择
-# DOMAIN,dns.ipv6dns.com,自动选择
-# DOMAIN,dns.surfshark.com,自动选择
-# DOMAIN,doh.familyshield.opendns.com,自动选择
-# DOMAIN,doh.opendns.com,自动选择
-# DOMAIN,family.cloudflare-dns.com,自动选择
-# DOMAIN,ibksturm.synology.me,自动选择
-# DOMAIN,one.one.one.one,自动选择
-# DOMAIN,security.cloudflare-dns.com,自动选择
-# DOMAIN,unfiltered.adguard-dns.com,自动选择
-# IP-CIDR,1.1.1.1/32,自动选择
-# IP-CIDR,1.0.0.1/32,自动选择
-# IP-CIDR,101.101.101.101/32,自动选择
-# IP-CIDR,8.8.4.4/32,自动选择
-# IP-CIDR,8.8.8.8/32,自动选择
-# IP-CIDR,9.9.9.9/32,自动选择
-# IP-CIDR,199.85.126.10/32,自动选择
-# IP-CIDR,199.85.127.10/32,自动选择
-# IP-CIDR,208.67.222.222/32,自动选择
-# IP-CIDR,208.67.220.220/32,自动选择
-# IP-CIDR,84.200.69.80/32,自动选择
-# IP-CIDR,84.200.70.40/32,自动选择
-# IP-CIDR,8.26.56.26/32,自动选择
-# IP-CIDR,8.20.247.20/32,自动选择
-
 # NAME: Apple
 DOMAIN,appldnld.apple.com.edgesuite.net,自动选择
 DOMAIN,apple-events.akamaized.net,自动选择
