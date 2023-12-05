@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,singlelogin.re,自动选择
 DOMAIN-SUFFIX,1lib.sk,自动选择
 DOMAIN-SUFFIX,libsolutions.app,自动选择
 DOMAIN-SUFFIX,pincong.rocks,自动选择
+DOMAIN-SUFFIX,docker.io,自动选择
 
 # NAME: Apple
 DOMAIN,appldnld.apple.com.edgesuite.net,自动选择
