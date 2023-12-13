@@ -84,6 +84,7 @@ HOST-SUFFIX,azurestackvalidation.com,美国节点
 HOST-SUFFIX,azurewebsites.net,美国节点
 
 # NAME: Bing
+DOMAIN-SUFFIX,copilot.microsoft.com,美国节点
 HOST-SUFFIX,bing,美国节点
 HOST-SUFFIX,bing.com,美国节点
 HOST-SUFFIX,bing.com.cn,美国节点
