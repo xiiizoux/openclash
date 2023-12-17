@@ -1,4 +1,7 @@
 DOMAIN-SUFFIX,bard.google.com,美国节点
+DOMAIN-SUFFIX,makersuite.google.com,美国节点
+DOMAIN-SUFFIX,google.dev,美国节点
+DOMAIN-SUFFIX,cloud.google.com,美国节点
 DOMAIN-SUFFIX,worldcoin.com,美国节点
 
 # NAME: OpenAI
