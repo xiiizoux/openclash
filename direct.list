@@ -1,5 +1,5 @@
 DOMAIN-SUFFIX,zouguojun.com
-USER-AGENT,*.cn,DIRECT
+USER-AGENT,*.cn
 DOMAIN-SUFFIX,gov.cn
 DOMAIN-SUFFIX,edu.cn
 DOMAIN-SUFFIX,com.cn
