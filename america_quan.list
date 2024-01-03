@@ -1,7 +1,7 @@
-DOMAIN-SUFFIX,bard.google.com,美国节点
-DOMAIN-SUFFIX,makersuite.google.com,美国节点
-DOMAIN-SUFFIX,google.dev,美国节点
-DOMAIN-SUFFIX,cloud.google.com,美国节点
+HOST-SUFFIX,bard.google.com,美国节点
+HOST-SUFFIX,makersuite.google.com,美国节点
+HOST-SUFFIX,google.dev,美国节点
+HOST-SUFFIX,cloud.google.com,美国节点
 HOST-SUFFIX,api.ai,美国节点
 HOST-SUFFIX,apigee.com,美国节点
 HOST,fonts.googleapis.com,美国节点
@@ -22,13 +22,11 @@ HOST-SUFFIX,qualysguard.qatp1.net,美国节点
 HOST-SUFFIX,qualysguard.qcpp1.net,美国节点
 HOST-SUFFIX,qualysguard.qpdp1.net,美国节点
 HOST-SUFFIX,www.google-analytics.com,美国节点
-HOST-SUFFIX,www.gstatic.com,美国节点
+HOST-SUFFIX,gstatic.com,美国节点
 HOST-SUFFIX,www.google-analytics.com,美国节点
 HOST-SUFFIX,apis.google.com,美国节点
-HOST-SUFFIX,fonts.gstatic.com,美国节点
-HOST-SUFFIX,local.adguard.org,美国节点
 HOST-SUFFIX,people-pa.clients6.google.com,美国节点
 
-DOMAIN-SUFFIX,copilot.microsoft.com,美国节点
-DOMAIN-SUFFIX,worldcoin.com,美国节点
+HOST-SUFFIX,copilot.microsoft.com,美国节点
+HOST-SUFFIX,worldcoin.com,美国节点
 
