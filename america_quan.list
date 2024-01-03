@@ -11,6 +11,16 @@ HOST,translate.googleapis.com,美国节点
 HOST,voice.telephony.goog,美国节点
 HOST,www.googleapis.com,美国节点
 HOST,clientservices.googleapis.com,美国节点
+HOST-SUFFIX,googleadapis.com,美国节点
+HOST-SUFFIX,googleapis-cn.com,美国节点
+HOST-SUFFIX,googleapis.cn,美国节点
+HOST-SUFFIX,googleapis.com,美国节点
+HOST-SUFFIX,qualysapi.qatp1.net,美国节点
+HOST-SUFFIX,qualysapi.qcpp1.net,美国节点
+HOST-SUFFIX,qualysapi.qpdp1.net,美国节点
+HOST-SUFFIX,qualysguard.qatp1.net,美国节点
+HOST-SUFFIX,qualysguard.qcpp1.net,美国节点
+HOST-SUFFIX,qualysguard.qpdp1.net,美国节点
 
 DOMAIN-SUFFIX,copilot.microsoft.com,美国节点
 DOMAIN-SUFFIX,worldcoin.com,美国节点
