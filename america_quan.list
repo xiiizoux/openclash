@@ -19,6 +19,8 @@ HOST-SUFFIX,google-analytics.com,美国节点
 HOST-SUFFIX,gstatic.com,美国节点
 HOST-SUFFIX,apis.google.com,美国节点
 HOST-SUFFIX,clients6.google.com,美国节点
+HOST-SUFFIX,googleusercontent.com,美国节点
+HOST-SUFFIX,adguard.org,美国节点
 
 HOST-SUFFIX,copilot.microsoft.com,美国节点
 HOST-SUFFIX,worldcoin.com,美国节点
