@@ -2,7 +2,15 @@ DOMAIN-SUFFIX,bard.google.com,美国节点
 DOMAIN-SUFFIX,makersuite.google.com,美国节点
 DOMAIN-SUFFIX,google.dev,美国节点
 DOMAIN-SUFFIX,cloud.google.com,美国节点
-DOMAIN-SUFFIX,api.ai,美国节点
+HOST-SUFFIX,api.ai,美国节点
+HOST-SUFFIX,apigee.com,美国节点
+HOST,fonts.googleapis.com,美国节点
+HOST,redirector.c.bigcache.googleapis.com,美国节点
+HOST,safebrowsing.googleapis.com,美国节点
+HOST,translate.googleapis.com,美国节点
+HOST,voice.telephony.goog,美国节点
+HOST,www.googleapis.com,美国节点
+HOST,clientservices.googleapis.com,美国节点
 
 DOMAIN-SUFFIX,copilot.microsoft.com,美国节点
 DOMAIN-SUFFIX,worldcoin.com,美国节点
