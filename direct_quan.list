@@ -129,7 +129,7 @@ HOST-SUFFIX,icbkfs.com,DIRECT
 HOST-SUFFIX,icbkus.com,DIRECT
 
 # NAME: AliPay
-HOST-SUFFIX,alipay,DIRECT
+HOST-SUFFIX,alipay.com,DIRECT
 HOST-SUFFIX,alipay-corp.com,DIRECT
 HOST-SUFFIX,alipay-eco.com,DIRECT
 HOST-SUFFIX,alipay-inc.com,DIRECT
