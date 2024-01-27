@@ -3,6 +3,24 @@ DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,google.dev
 DOMAIN-SUFFIX,cloud.google.com
 DOMAIN-SUFFIX,api.ai
+DOMAIN-SUFFIX,apigee.com,美国节点
+DOMAIN-SUFFIX,telephony.goog,美国节点
+DOMAIN-SUFFIX,googleapis.com,美国节点
+DOMAIN-SUFFIX,googleadapis.com,美国节点
+DOMAIN-SUFFIX,googleapis-cn.com,美国节点
+DOMAIN-SUFFIX,googleapis.cn,美国节点
+DOMAIN-SUFFIX,qualysapi.qatp1.net,美国节点
+DOMAIN-SUFFIX,qualysapi.qcpp1.net,美国节点
+DOMAIN-SUFFIX,qualysapi.qpdp1.net,美国节点
+DOMAIN-SUFFIX,qualysguard.qatp1.net,美国节点
+DOMAIN-SUFFIX,qualysguard.qcpp1.net,美国节点
+DOMAIN-SUFFIX,qualysguard.qpdp1.net,美国节点
+DOMAIN-SUFFIX,google-analytics.com,美国节点
+DOMAIN-SUFFIX,gstatic.com,美国节点
+DOMAIN-SUFFIX,apis.google.com,美国节点
+DOMAIN-SUFFIX,clients6.google.com,美国节点
+DOMAIN-SUFFIX,googleusercontent.com,美国节点
+DOMAIN-SUFFIX,adguard.org,美国节点
 
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,worldcoin.com
