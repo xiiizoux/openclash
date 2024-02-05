@@ -17,6 +17,7 @@ HOST-SUFFIX,ip-api.com,DIRECT
 HOST-SUFFIX,ipapi.co,DIRECT
 HOST-SUFFIX,ipstack.com,DIRECT
 HOST-SUFFIX,whatismyip.com,DIRECT
+HOST-SUFFIX,time.is
 
 
 # NAME: CCB
