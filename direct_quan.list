@@ -13,11 +13,11 @@ HOST-SUFFIX,ipw.cn,DIRECT
 HOST-SUFFIX,ident.me,DIRECT
 HOST-SUFFIX,test-ipv6.com,DIRECT
 HOST-SUFFIX,zhenyunpan.com,DIRECT
-HOST-SUFFIX,ibwjf.com
-HOST-SUFFIX,alicloudccp.com
-HOST-SUFFIX,alipan.com
-HOST-SUFFIX,quark.cn
-HOST-SUFFIX,time.is
+HOST-SUFFIX,ibwjf.com,DIRECT
+HOST-SUFFIX,alicloudccp.com,DIRECT
+HOST-SUFFIX,alipan.com,DIRECT
+HOST-SUFFIX,quark.cn,DIRECT
+HOST-SUFFIX,time.is,DIRECT
 
 
 # NAME: CCB
