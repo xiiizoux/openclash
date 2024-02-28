@@ -1,33 +1,3 @@
-# NAME: Google
-HOST-SUFFIX,gemini.google.com,美国节点
-HOST-SUFFIX,workspace.google.com,美国节点
-HOST-SUFFIX,mail.google.com,美国节点
-HOST-SUFFIX,docs.google.com,美国节点
-HOST-SUFFIX,drive.google.com,美国节点
-HOST-SUFFIX,makersuite.google.com,美国节点
-HOST-SUFFIX,bard.google.com,美国节点
-HOST-SUFFIX,google.dev,美国节点
-HOST-SUFFIX,cloud.google.com,美国节点
-HOST-SUFFIX,api.ai,美国节点
-HOST-SUFFIX,apigee.com,美国节点
-HOST-SUFFIX,telephony.goog,美国节点
-HOST-SUFFIX,googleapis.com,美国节点
-HOST-SUFFIX,googleadapis.com,美国节点
-HOST-SUFFIX,googleapis-cn.com,美国节点
-HOST-SUFFIX,googleapis.cn,美国节点
-HOST-SUFFIX,qualysapi.qatp1.net,美国节点
-HOST-SUFFIX,qualysapi.qcpp1.net,美国节点
-HOST-SUFFIX,qualysapi.qpdp1.net,美国节点
-HOST-SUFFIX,qualysguard.qatp1.net,美国节点
-HOST-SUFFIX,qualysguard.qcpp1.net,美国节点
-HOST-SUFFIX,qualysguard.qpdp1.net,美国节点
-HOST-SUFFIX,google-analytics.com,美国节点
-HOST-SUFFIX,gstatic.com,美国节点
-HOST-SUFFIX,apis.google.com,美国节点
-HOST-SUFFIX,clients6.google.com,美国节点
-HOST-SUFFIX,googleusercontent.com,美国节点
-HOST-SUFFIX,adguard.org,美国节点
-
 HOST-SUFFIX,copilot.microsoft.com,美国节点
 HOST-SUFFIX,worldcoin.com,美国节点
 
