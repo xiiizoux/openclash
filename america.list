@@ -1,7 +1,11 @@
-DOMAIN-SUFFIX,bard.google.com
+# NAME: Google
 DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,workspace.google.com
+DOMAIN-SUFFIX,mail.google.com
+DOMAIN-SUFFIX,docs.google.com
+DOMAIN-SUFFIX,drive.google.com
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,google.dev
 DOMAIN-SUFFIX,cloud.google.com
 DOMAIN-SUFFIX,api.ai
@@ -22,7 +26,7 @@ DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,apis.google.com
 DOMAIN-SUFFIX,clients6.google.com
 DOMAIN-SUFFIX,googleusercontent.com
-DOMAIN-SUFFIX,adguard.org
 
+DOMAIN-SUFFIX,adguard.org
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,worldcoin.com
