@@ -1,6 +1,7 @@
 HOST-SUFFIX,bard.google.com,美国节点
 HOST-SUFFIX,gemini.google.com,美国节点
 HOST-SUFFIX,makersuite.google.com,美国节点
+HOST-SUFFIX,workspace.google.com,美国节点
 HOST-SUFFIX,google.dev,美国节点
 HOST-SUFFIX,cloud.google.com,美国节点
 HOST-SUFFIX,api.ai,美国节点
