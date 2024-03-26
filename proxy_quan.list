@@ -23,3 +23,5 @@ HOST-SUFFIX,docker.io,自动选择
 HOST-SUFFIX,fast.com,自动选择
 HOST-SUFFIX,make.com,自动选择
 HOST-SUFFIX,integromat.com,自动选择
+HOST-KEYWORD,stripe,自动选择
+HOST-SUFFIX,stripe.com,自动选择
