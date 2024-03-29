@@ -1,4 +1,7 @@
 HOST-SUFFIX,zouguojun.com,DIRECT
+HOST-SUFFIX,time.windows.com,DIRECT
+HOST-SUFFIX,time.apple.com,DIRECT
+HOST-SUFFIX,time.google.com,DIRECT
 HOST-SUFFIX,plex.tv,DIRECT
 HOST-SUFFIX,gov.cn,DIRECT
 HOST-SUFFIX,edu.cn,DIRECT
