@@ -26,3 +26,5 @@ DOMAIN-SUFFIX,crowdsec.net
 DOMAIN-SUFFIX,pan.baidu.com
 DOMAIN-SUFFIX,bobohome.store
 DOMAIN-KEYWORD,bobohome
+DOMAIN-SUFFIX,kubedown.com
+DOMAIN-KEYWORD,kubedown
