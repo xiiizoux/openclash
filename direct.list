@@ -25,9 +25,8 @@ DOMAIN-SUFFIX,sf-express.com
 DOMAIN-SUFFIX,crowdsec.net
 DOMAIN-SUFFIX,pan.baidu.com
 DOMAIN-SUFFIX,bobohome.store
-DOMAIN-KEYWORD,bobohome
 DOMAIN-SUFFIX,kubedown.com
-DOMAIN-KEYWORD,kubedown
+DOMAIN-SUFFIX,opnsense.org
 
 DOMAIN-SUFFIX,dnsany.com
 DOMAIN-SUFFIX,cmvideo.cn
