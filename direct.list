@@ -3,6 +3,7 @@ DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,*.gov.cn
 DOMAIN-SUFFIX,*.edu.cn
 DOMAIN-SUFFIX,*.com.cn
+DOMAIN-SUFFIX,*.cn
 DOMAIN-SUFFIX,xcz.im
 DOMAIN-SUFFIX,sou-yun.cn
 DOMAIN-SUFFIX,zdic.net
