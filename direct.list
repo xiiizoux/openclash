@@ -16,22 +16,24 @@ DOMAIN-SUFFIX,ident.me
 DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,time.is
 
+DOMAIN-SUFFIX,opnsense.org
+DOMAIN-SUFFIX,crowdsec.net
+
 DOMAIN-SUFFIX,zhenyunpan.com
 DOMAIN-SUFFIX,ibwjf.com
 DOMAIN-SUFFIX,alicloudccp.com
 DOMAIN-SUFFIX,alipan.com
 DOMAIN-SUFFIX,quark.cn
+DOMAIN-SUFFIX,pan.baidu.com
+DOMAIN-SUFFIX,bobohome.store
+DOMAIN-SUFFIX,kubedown.com
 
 DOMAIN-SUFFIX,95155.com
 DOMAIN-KEYWORD,cmbc
 DOMAIN-SUFFIX,cmbc.com.cn
 DOMAIN-SUFFIX,sf-express.com
-DOMAIN-SUFFIX,crowdsec.net
-DOMAIN-SUFFIX,pan.baidu.com
-DOMAIN-SUFFIX,bobohome.store
-DOMAIN-SUFFIX,kubedown.com
-DOMAIN-SUFFIX,opnsense.org
 
+# IPTV
 DOMAIN-SUFFIX,dnsany.com
 DOMAIN-SUFFIX,cmvideo.cn
 DOMAIN-SUFFIX,chinamobile.com
