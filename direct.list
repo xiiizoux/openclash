@@ -10,6 +10,7 @@ IP-CIDR,210.72.145.44/32,no-resolve
 IP-CIDR,202.120.2.101/32,no-resolve
 IP-CIDR,203.107.6.88/32,no-resolve
 IP-CIDR,120.25.115.20/32,no-resolve
+IP-CIDR,10.31.21.2/32,no-resolve
 
 DOMAIN-SUFFIX,ipip.net
 DOMAIN-SUFFIX,oray.com
