@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,*.com.cn
 DOMAIN-SUFFIX,*.cn
 DOMAIN-SUFFIX,*.pool.ntp.org
 DOMAIN-SUFFIX,pool.ntp.org
+IP-CIDR,210.72.145.44/32,no-resolve
 IP-CIDR,203.107.6.88/32,no-resolve
 IP-CIDR,120.25.115.20/32,no-resolve
 
