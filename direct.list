@@ -1,6 +1,4 @@
 DOMAIN-SUFFIX,zouguojun.com
-DOMAIN-SUFFIX,crowdsec.net
-DOMAIN-SUFFIX,plex.tv
 
 DOMAIN-SUFFIX,*.gov.cn
 DOMAIN-SUFFIX,*.edu.cn
@@ -26,8 +24,9 @@ DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,time.is
 DOMAIN-SUFFIX,fit2cloud.com
 
-DOMAIN-SUFFIX,opnsense.org
-DOMAIN-SUFFIX,crowdsec.net
+# DOMAIN-SUFFIX,plex.tv
+# DOMAIN-SUFFIX,opnsense.org
+# DOMAIN-SUFFIX,crowdsec.net
 
 DOMAIN-SUFFIX,zhenyunpan.com
 DOMAIN-SUFFIX,ibwjf.com
