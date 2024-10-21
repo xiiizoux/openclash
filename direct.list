@@ -6,14 +6,17 @@ DOMAIN-SUFFIX,*.edu.cn
 DOMAIN-SUFFIX,*.com.cn
 DOMAIN-SUFFIX,*.cn
 
+DOMAIN-SUFFIX,time.is
+DOMAIN-SUFFIX,fit2cloud.com
 DOMAIN-SUFFIX,ipip.net
 DOMAIN-SUFFIX,oray.com
 DOMAIN-SUFFIX,3322.net
 DOMAIN-SUFFIX,ipw.cn
 DOMAIN-SUFFIX,ident.me
 DOMAIN-SUFFIX,test-ipv6.com
-DOMAIN-SUFFIX,time.is
-DOMAIN-SUFFIX,fit2cloud.com
+DOMAIN-SUFFIX,speedtest.cn
+DOMAIN-SUFFIX,speedtest.im
+DOMAIN-SUFFIX,test.ustc.edu.cn
 
 DOMAIN-SUFFIX,aliyundrive.net/
 DOMAIN-SUFFIX,zhenyunpan.com
