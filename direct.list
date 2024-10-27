@@ -1,6 +1,5 @@
 DOMAIN-SUFFIX,zouguojun.com
 DOMAIN-SUFFIX,plexsign.key
-IP-CIDR,198.46.158.186,no-resolve
 
 DOMAIN-SUFFIX,*.gov.cn
 DOMAIN-SUFFIX,*.edu.cn
