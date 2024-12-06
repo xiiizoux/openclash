@@ -1,3 +1,4 @@
+IP-CIDR,198.46.158.186/32,no-resolve
 DOMAIN-SUFFIX,worldcoin.com
 DOMAIN-SUFFIX,link.com
 DOMAIN-SUFFIX,midjourney.com
@@ -20,4 +21,3 @@ DOMAIN-SUFFIX,learning.google.com
 DOMAIN-SUFFIX,codeium.com
 DOMAIN-KEYWORD,windsurf
 DOMAIN-KEYWORD,codeium
-
