@@ -1,0 +1,130 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "ip_cidr": [
+        "198.46.158.186/32",
+      ]
+    },
+    {
+      "domain_suffix": "zouguojun.com"
+    },
+    {
+      "domain_suffix": "plexsign.key"
+    },
+    {
+      "domain_suffix": "gov.cn"
+    },
+    {
+      "domain_suffix": "edu.cn"
+    },
+    {
+      "domain_suffix": "com.cn"
+    },
+    {
+      "domain_suffix": "cn"
+    },
+    {
+      "domain_suffix": "time.is"
+    },
+    {
+      "domain_suffix": "fit2cloud.com"
+    },
+    {
+      "domain_suffix": "ipip.net"
+    },
+    {
+      "domain_suffix": "oray.com"
+    },
+    {
+      "domain_suffix": "3322.net"
+    },
+    {
+      "domain_suffix": "ipw.cn"
+    },
+    {
+      "domain_suffix": "ident.me"
+    },
+    {
+      "domain_suffix": "test-ipv6.com"
+    },
+    {
+      "domain_suffix": "speedtest.cn"
+    },
+    {
+      "domain_suffix": "speedtest.im"
+    },
+    {
+      "domain_suffix": "test.ustc.edu.cn"
+    },
+    {
+      "domain_suffix": "aliyundrive.net"
+    },
+    {
+      "domain_suffix": "zhenyunpan.com"
+    },
+    {
+      "domain_suffix": "ibwjf.com"
+    },
+    {
+      "domain_suffix": "alicloudccp.com"
+    },
+    {
+      "domain_suffix": "alipan.com"
+    },
+    {
+      "domain_suffix": "quark.cn"
+    },
+    {
+      "domain_suffix": "pan.baidu.com"
+    },
+    {
+      "domain_suffix": "bobohome.store"
+    },
+    {
+      "domain_suffix": "kubedown.com"
+    },
+    {
+      "domain_suffix": "95155.com"
+    },
+    {
+      "domain_keyword": "cmbc"
+    },
+    {
+      "domain_suffix": "cmbc.com.cn"
+    },
+    {
+      "domain_suffix": "sf-express.com"
+    },
+    {
+      "domain_suffix": "*.pool.ntp.org"
+    },
+    {
+      "domain_suffix": "pool.ntp.org"
+    },
+    {
+      "domain_suffix": "dnsany.com"
+    },
+    {
+      "domain_suffix": "cmvideo.cn"
+    },
+    {
+      "domain_suffix": "chinamobile.com"
+    },
+    {
+      "domain_suffix": "mobaibox.com"
+    },
+    {
+      "domain_suffix": "gitv.tv"
+    },
+    {
+      "domain_suffix": "cctv.cn"
+    },
+    {
+      "domain_suffix": "yangshipin.cn"
+    },
+    {
+      "domain_suffix": "livednow.com"
+    }
+  ]
+}
