@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": "Huggingface.co"
+    },
+    {
+      "domain_keyword": "huggingface"
+    },
+    {
+      "domain_suffix": "ollama.com"
+    },
+    {
+      "domain_keyword": "ollama"
+    },
+    {
+      "domain_suffix": "lmstudio.ai"
+    },
+    {
+      "domain_keyword": "lmstudio"
+    },
+    {
+      "domain_suffix": "tls.ink"
+    }
+  ]
+}
