@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": "tls.wiki"
+    },
+    {
+      "domain_suffix": "tls.ink"
+    },
+    {
+      "domain_suffix": "okaypay.online"
+    },
+    {
+      "domain_keyword": "zlibrary"
+    },
+    {
+      "domain_suffix": "zlibrary-global.se"
+    },
+    {
+      "domain_suffix": "singlelogin.site"
+    },
+    {
+      "domain_suffix": "singlelogin.re"
+    },
+    {
+      "domain_suffix": "1lib.sk"
+    },
+    {
+      "domain_suffix": "libsolutions.app"
+    },
+    {
+      "domain_suffix": "met.no"
+    },
+    {
+      "domain_suffix": "hacs.xyz"
+    },
+    {
+      "domain_suffix": "fast.com"
+    },
+    {
+      "domain_suffix": "livednow.com"
+    },
+    {
+      "domain_suffix": "orz-7.com"
+    },
+    {
+      "domain_suffix": "4gtv.tv"
+    },
+    {
+      "domain_suffix": "hinet.net"
+    },
+    {
+      "domain_suffix": "ofiii.com"
+    },
+    {
+      "domain_suffix": "googlevideo.com"
+    },
+    {
+      "domain_suffix": "youtube.com"
+    },
+    {
+      "domain_suffix": "mytvsuper.com"
+    }
+  ]
+}
