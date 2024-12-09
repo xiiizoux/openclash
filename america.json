@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": "worldcoin.com"
+    },
+    {
+      "domain_suffix": "link.com"
+    },
+    {
+      "domain_suffix": "midjourney.com"
+    },
+    {
+      "domain_keyword": "midjourney"
+    },
+    {
+      "domain_suffix": "hume.ai"
+    },
+    {
+      "domain_suffix": "suno.ai"
+    },
+    {
+      "domain_suffix": "originality.ai"
+    },
+    {
+      "domain_suffix": "temu.com"
+    },
+    {
+      "domain_suffix": "aliexpress.com"
+    },
+    {
+      "domain_keyword": "aliexpress"
+    },
+    {
+      "domain_suffix": "socialblade.com"
+    },
+    {
+      "domain_keyword": "socialblade"
+    },
+    {
+      "domain_suffix": "ultramobile.com"
+    },
+    {
+      "domain_keyword": "ultramobile"
+    },
+    {
+      "domain_suffix": "perplexity.ai"
+    },
+    {
+      "domain_keyword": "perplexity"
+    },
+    {
+      "domain_suffix": "notebooklm.google"
+    },
+    {
+      "domain_keyword": "notebooklm"
+    },
+    {
+      "domain_suffix": "learning.google.com"
+    },
+    {
+      "domain_suffix": "codeium.com"
+    },
+    {
+      "domain_keyword": "windsurf"
+    },
+    {
+      "domain_keyword": "codeium"
+    },
+    {
+      "domain_suffix": "x.ai"
+    }
+  ]
+}
