@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": "voachinese.com"
+    },
+    {
+      "domain_suffix": "ntdtv.com"
+    },
+    {
+      "domain_suffix": "minghui.org"
+    },
+    {
+      "domain_suffix": "epochtimes.com"
+    },
+    {
+      "domain_suffix": "botanwang.com"
+    },
+    {
+      "domain_suffix": "bannedbook.org"
+    },
+    {
+      "domain_suffix": "rfa.org"
+    },
+    {
+      "domain_suffix": "pincong.rocks"
+    },
+    {
+      "domain_suffix": "soundofhope.org"
+    }
+  ]
+}
