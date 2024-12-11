@@ -1,6 +1,8 @@
 IP-CIDR,198.46.158.186/32,no-resolve
 DOMAIN-SUFFIX,zouguojun.com
 DOMAIN-SUFFIX,plexsign.key
+DOMAIN-SUFFIX,packagecloud.io
+DOMAIN-SUFFIX,crowdsec.net
 
 DOMAIN-SUFFIX,*.gov.cn
 DOMAIN-SUFFIX,*.edu.cn
