@@ -4,10 +4,10 @@ DOMAIN-SUFFIX,plexsign.key
 DOMAIN-SUFFIX,packagecloud.io
 DOMAIN-SUFFIX,crowdsec.net
 
-DOMAIN-SUFFIX,*.gov.cn
-DOMAIN-SUFFIX,*.edu.cn
-DOMAIN-SUFFIX,*.com.cn
-DOMAIN-SUFFIX,*.cn
+DOMAIN-SUFFIX,+.gov.cn
+DOMAIN-SUFFIX,+.edu.cn
+DOMAIN-SUFFIX,+.com.cn
+DOMAIN-SUFFIX,+.cn
 
 DOMAIN-SUFFIX,time.is
 DOMAIN-SUFFIX,fit2cloud.com
